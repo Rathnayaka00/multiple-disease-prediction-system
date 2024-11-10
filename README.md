@@ -1,4 +1,4 @@
-Multiple Disease Prediction System
+##Multiple Disease Prediction System
 This Streamlit-based application predicts the likelihood of diabetes, heart disease, and Parkinson's disease. Using separate machine learning models for each disease, the app enables users to input relevant health metrics and receive real-time predictions. Additionally, it offers health recommendations (powered by a Generative AI model) for those with positive diagnoses. Note: This is not a substitute for medical advice. Always consult healthcare professionals.
 
 Directory Structure
