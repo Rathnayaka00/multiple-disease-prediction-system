@@ -44,14 +44,14 @@ app.py
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/multiple-disease-prediction-system.git
+   git clone https://github.com/Rathnayaka00/multiple-disease-prediction-system.git
    cd multiple-disease-prediction-system
    ```
 
 2. **Set up a virtual environment**:
    ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # For Windows: venv\Scripts\activate
+   python3 -m venv env
+   source env/Scripts/activate
    ```
 
 3. **Install dependencies**:
