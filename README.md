@@ -90,6 +90,4 @@ app.py
 ## Disclaimer
 This project is intended for informational purposes only and does not constitute medical advice. Always seek the guidance of qualified healthcare providers for any health concerns.
 
----
 
-Copy and paste this content into your `README.md` file, and adjust the repository link as needed.
